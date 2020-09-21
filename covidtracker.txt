@@ -1,0 +1,3 @@
+-Firstly you need to install covid and matplotlib library
+-Then import the libraries
+-Use matplotlib to show the data in the pie chart
